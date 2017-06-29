@@ -5,7 +5,7 @@ INI parsing library for Go (golang).
 
 View the API documentation [here](http://godoc.org/github.com/gonutz/ini).
 
-This library is a copied and updated version of [Vaughan Newton's go-ini](http://godoc.org/github.com/vaughan0/go-ini).
+This library is a copied and updated version of [Vaughan Newton's go-ini](https://github.com/vaughan0/go-ini).
 
 Usage
 -----
